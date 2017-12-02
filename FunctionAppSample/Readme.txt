@@ -31,3 +31,8 @@ SQLデータベースのインポート
 ・Strage のところで、visualsamplenaba26a→azure-web-job→mySampleSQL***.bacpacを選ぶ
 ・データベース名を適当なものに変える
 ・パスワードを入れてOK
+
+
+■gitの使い方
+https://qiita.com/mountcedar/items/682743c95fd3b8fc274b
+http://akiyoko.hatenablog.jp/entry/2014/12/02/000939
